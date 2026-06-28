@@ -7,3 +7,5 @@ Three models where made with similar structure:
 1. Electrical system only; BESS, PV, grid import and electrical load
 2. Electrical and heat system; BESS, PV, grid import, electrical load, geothermal heat, heat pump, thermal storage and heat load.
 3. Complete system; BESS, PV, grid import, electrical load, geothermal heat, heat pump, thermal storage,  heat load, Direct Air capture and CO2 storage.
+
+For Questions you can contact Jesse Labe on https://nl.linkedin.com/in/jesse-labe-0b8b021a3
